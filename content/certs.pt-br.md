@@ -1,5 +1,5 @@
 +++
-title = "Certifications and courses"
+title = "Cursos e certificações"
 slug = "certs"
 type = "certs"
 +++
