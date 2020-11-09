@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "http://oopsiam.live"
 title = "johndoe"
 
 theme = "hugo-coder"
@@ -15,12 +15,12 @@ pygmentsCodeFencesGuessSyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    description = "John Doe's personal website"
+    author = "Marco Aurelio"
+    description = "Marco Aurelio's personal website"
     keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
-    avatarURL = "images/avatar.jpg"
-    #gravatar = "john.doe@example.com"
+    info = "Systems Engineer and Cloud Enthusiast"
+    #avatarURL = "images/avatar.jpg"
+    gravatar = "ma@snoke.de"
     footerContent = "Enter a text here."
 
     dateFormat = "January 2, 2006"
@@ -31,7 +31,7 @@ disqusShortname = "yourdiscussshortname"
     since = 2019
 
     # Git Commit in Footer, uncomment the line below to enable it.
-    commit = "https://github.com/luizdepra/hugo-coder/tree/"
+    commit = "https://github.com/macmiranda/hugo-site/tree/"
 
     rtl = false
 
@@ -86,12 +86,12 @@ disqusShortname = "yourdiscussshortname"
     name = "Github"
     icon = "fa fa-github"
     weight = 1
-    url = "https://github.com/johndoe/"
+    url = "https://github.com/macmiranda/"
 [[params.social]]
     name = "Gitlab"
     icon = "fa fa-gitlab"
     weight = 2
-    url = "https://gitlab.com/johndoe/"
+    url = "https://gitlab.com/macmiranda/"
 [[params.social]]
     name = "Twitter"
     icon = "fa fa-twitter"
@@ -101,7 +101,7 @@ disqusShortname = "yourdiscussshortname"
     name = "LinkedIn"
     icon = "fa fa-linkedin"
     weight = 4
-    url = "https://www.linkedin.com/in/johndoe/"
+    url = "https://www.linkedin.com/in/macmiranda/"
 [[params.social]]
     name = "Medium"
     icon = "fa fa-medium"
@@ -111,7 +111,7 @@ disqusShortname = "yourdiscussshortname"
     name = "RSS"
     icon = "fa fa-rss"
     weight = 6
-    url = "https://myhugosite.com/index.xml"
+    url = "https://oopsiam.live/index.xml"
     rel = "alternate"
     type = "application/rss+xml"
 
@@ -148,9 +148,9 @@ disqusShortname = "yourdiscussshortname"
         title = "João Ninguém"
 
         [languages.pt-br.params]
-            author = "João Ninguém"
-            info = "Full Stack DevOps e Mágico"
-            description = "Sítio pessoal de João Ninguém"
+            author = "Marco Aurelio"
+            info = "Engenheiro de Sistemas e Cloud Enthusiast"
+            description = "Site pessoal"
             keywords = "blog,desenvolvedor,pessoal"
             footerContent = "Coloque algum texto aqui."
 
