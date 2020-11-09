@@ -138,6 +138,11 @@ pygmentsCodeFencesGuessSyntax = true
             url = "projects/"
 
             [[languages.en.menu.main]]
+            name = "Certifications"
+            weight = 4
+            url = "certs/"
+
+            [[languages.en.menu.main]]
             name = "Contact me"
             weight = 5
             url = "contact/"
@@ -170,6 +175,11 @@ pygmentsCodeFencesGuessSyntax = true
             name = "Projetos"
             weight = 3
             url = "projects/"
+            
+            [[languages.pt-br.menu.main]]
+            name = "Certificações"
+            weight = 4
+            url = "certs/"
 
             [[languages.pt-br.menu.main]]
             name = "Contato"
