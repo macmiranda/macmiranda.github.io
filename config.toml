@@ -1,5 +1,5 @@
 baseURL = "http://oopsiam.live"
-title = "johndoe"
+title = "Marco Aurelio's website"
 
 theme = "hugo-coder"
 
@@ -12,7 +12,7 @@ pygmentsStyle = "b2"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 
-disqusShortname = "yourdiscussshortname"
+#disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Marco Aurelio"
@@ -21,7 +21,7 @@ disqusShortname = "yourdiscussshortname"
     info = "Systems Engineer and Cloud Enthusiast"
     #avatarURL = "images/avatar.jpg"
     gravatar = "ma@snoke.de"
-    footerContent = "Enter a text here."
+    footerContent = "In a sea of impossibilities there is always a drifting boat full of possibilities."
 
     dateFormat = "January 2, 2006"
 
@@ -31,7 +31,7 @@ disqusShortname = "yourdiscussshortname"
     since = 2019
 
     # Git Commit in Footer, uncomment the line below to enable it.
-    commit = "https://github.com/macmiranda/hugo-site/tree/"
+    commit = "https://github.com/macmiranda/hugo-site/commits/main/"
 
     rtl = false
 
@@ -40,7 +40,7 @@ disqusShortname = "yourdiscussshortname"
     # "auto" (use preference set by browser)
     # "dark" (dark background, light foreground)
     # "light" (light background, dark foreground) (default)
-    colorScheme = "auto"
+    colorScheme = "dark"
 
     # Hide the toggle button, along with the associated vertical divider
     hideColorSchemeToggle = false
@@ -60,21 +60,21 @@ disqusShortname = "yourdiscussshortname"
     # Custom JS
     customJS = []
 
-# If you want to use fathom(https://usefathom.com) for analytics, add this section
-[params.fathomAnalytics]
-    siteID = "ABCDE"
-    # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
-    serverURL = "analytics.example.com"
+# # If you want to use fathom(https://usefathom.com) for analytics, add this section
+# [params.fathomAnalytics]
+#     siteID = "ABCDE"
+#     # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
+#     serverURL = "analytics.example.com"
 
-# If you want to use plausible(https://plausible.io) for analytics, add this section
-[params.plausibleAnalytics]
-    domain = "example.com"
-    # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
-    serverURL = "analytics.example.com"
+# # If you want to use plausible(https://plausible.io) for analytics, add this section
+# [params.plausibleAnalytics]
+#     domain = "example.com"
+#     # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
+#     serverURL = "analytics.example.com"
 
-# If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
-[params.goatCounter]
-    code = "code"
+# # If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
+# [params.goatCounter]
+#     code = "code"
 
 [taxonomies]
   category = "categories"
@@ -93,20 +93,20 @@ disqusShortname = "yourdiscussshortname"
     weight = 2
     url = "https://gitlab.com/macmiranda/"
 [[params.social]]
-    name = "Twitter"
-    icon = "fa fa-twitter"
-    weight = 3
-    url = "https://twitter.com/johndoe/"
-[[params.social]]
     name = "LinkedIn"
     icon = "fa fa-linkedin"
     weight = 4
     url = "https://www.linkedin.com/in/macmiranda/"
-[[params.social]]
-    name = "Medium"
-    icon = "fa fa-medium"
-    weight = 5
-    url = "https://medium.com/@johndoe"
+# [[params.social]]
+#     name = "Medium"
+#     icon = "fa fa-medium"
+#     weight = 5
+#     url = "https://medium.com/@johndoe"
+# [[params.social]]
+#     name = "Twitter"
+#     icon = "fa fa-twitter"
+#     weight = 3
+#     url = "https://twitter.com/johndoe/"
 [[params.social]]
     name = "RSS"
     icon = "fa fa-rss"
@@ -145,14 +145,14 @@ disqusShortname = "yourdiscussshortname"
 
     [languages.pt-br]
         languageName = "Português"
-        title = "João Ninguém"
+        title = "Site do Marco Aurelio"
 
         [languages.pt-br.params]
             author = "Marco Aurelio"
             info = "Engenheiro de Sistemas e Cloud Enthusiast"
             description = "Site pessoal"
             keywords = "blog,desenvolvedor,pessoal"
-            footerContent = "Coloque algum texto aqui."
+            footerContent = "Num mar de impossibilidades existe sempre um barco à deriva cheio de possibilidades."
 
         [languages.pt-br.menu]
 
