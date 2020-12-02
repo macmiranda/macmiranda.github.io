@@ -5,6 +5,7 @@ slug = "dummy"
 tags = ["hugo", "i18n"]
 categories = ["blog"]
 authors = ["Translation test"]
+draft = true
 +++
 
 Nada para ver aqui!

@@ -6,6 +6,7 @@ tags = []
 categories = []
 series = ["Theme", "Hugo"]
 authors = ["John Doe"]
+draft = true
 +++
 
 ## Introduction

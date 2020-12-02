@@ -6,6 +6,7 @@ images = ["/images/N90.jpg"]
 math = true
 series = ["Theme", "Hugo"]
 authors = ["John Doe", "Jane Smith"]
+draft = true
 +++
 
 ## Style Demo
