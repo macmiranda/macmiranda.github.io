@@ -17,8 +17,8 @@ pygmentsCodeFencesGuessSyntax = true
 [params]
     author = "Marco Aurelio"
     description = "Marco Aurelio's personal website"
-    keywords = "blog,developer,personal"
-    info = "Systems Engineer and Cloud Enthusiast"
+    keywords = "blog,developer,devsecops,personal"
+    info = "DevSecOps Engineer"
     #avatarURL = "images/avatar.jpg"
     gravatar = "ma@snoke.de"
     footerContent = "In a sea of impossibilities there is always a drifting boat full of possibilities."
@@ -154,9 +154,9 @@ pygmentsCodeFencesGuessSyntax = true
 
         [languages.pt-br.params]
             author = "Marco Aurelio"
-            info = "Engenheiro de Sistemas e Cloud Enthusiast"
+            info = "Engenheiro DevSecOps"
             description = "Site pessoal"
-            keywords = "blog,desenvolvedor,pessoal"
+            keywords = "blog,desenvolvedor,devsecops,pessoal"
             footerContent = "Num mar de impossibilidades existe sempre um barco à deriva cheio de possibilidades."
 
         [languages.pt-br.menu]
