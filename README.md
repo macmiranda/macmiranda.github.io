@@ -1,6 +1,6 @@
 # Hugo Website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3ef200a0-74ee-4acd-b6f7-4989ff2ad52a/deploy-status)](https://app.netlify.com/sites/hugo-maurelio/deploys)
+[![Deploy Hugo site to Pages](https://github.com/macmiranda/macmiranda.github.io/actions/workflows/pages.yml/badge.svg)](https://github.com/macmiranda/macmiranda.github.io/actions/workflows/pages.yml)
 
 Personal website
 

@@ -2,11 +2,13 @@
 title = "Sobre mim"
 slug = "about"
 +++
-👋 Hi, I’m @macmiranda, a high-achieving generalist with 16+ years of experience managing highly-available distributed systems with focus on security. In other words, a problem solver in the hyperconverged world.
+👋 Hi, I’m @macmiranda, a high-achieving generalist with 17+ years of experience managing highly-available distributed systems with focus on security. In other words, a problem solver in the hyperconverged world.
 
 👀 I’m interested in DevSecOps, ML, Python, Automation tools (yes, even Power Automate), Threat Research and Blockchain technologies.
 
-🌱 I’m currently learning Python and studying for the ComptTIA CySA+ and the CKS exams.
+🌱 I’m currently building up my Go and Python skills and studying for the the CKS exam.
+
+🏆 Certified LFCS, CKA, CySA+ and CCNA
 
 📫 You can reach me via https://linkedin.com/in/macmiranda/
 
