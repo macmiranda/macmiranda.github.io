@@ -10,7 +10,7 @@ slug = "about"
 
 🏆 Certified LFCS, CKA, CySA+ and CCNA
 
-📫 You can reach me via https://linkedin.com/in/macmiranda/
+📬 You can reach me via https://linkedin.com/in/macmiranda/
 
 <!---
 macmiranda/macmiranda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

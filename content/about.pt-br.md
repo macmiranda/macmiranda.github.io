@@ -2,15 +2,16 @@
 title = "Sobre mim"
 slug = "about"
 +++
-👋 Hi, I’m @macmiranda, a high-achieving generalist with 18+ years of experience managing highly-available distributed systems with focus on security. In other words, a problem solver in the hyperconverged world.
+👋 Oi, sou o @macmiranda, um generalista de alta performance com mais de 18 anos de experiência na área de sistemas distribuídos e alta disponibilidade, com especial foco em segurança. Em outras palavras, um 
+solucionador de problemas no mundo hyperconvergido.
 
-👀 I’m interested in DevSecOps, ML, Python, Automation tools (yes, even Power Automate), Threat Research and Blockchain technologies.
+👀 Meus interesses atuais incluem DevSecOps, ML, Python, ferramentas de automação (sim, até mesmo Power Automate), Threat Research e Blockchain.
 
-🌱 I’m currently building up my Go and Python skills and studying for the the CKS exam.
+🌱 No momento, estou estudando um pouco de Python e Go e também me preparando para o exame CKS.
 
-🏆 Certified LFCS, CKA, CySA+ and CCNA
+🏆 Certificações já obtidas: LFCS, CKA, CySA+ and CCNA
 
-📫 You can reach me via https://linkedin.com/in/macmiranda/
+📬 Se quiser falar comigo, me escreva em https://linkedin.com/in/macmiranda/
 
 <!---
 macmiranda/macmiranda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
